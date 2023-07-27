@@ -1,7 +1,0 @@
-[Event "Simple Game"]
-[Site "GabChessGui"]
-[White 'human']
-[Black 'not human']
-[Result '*']
-
-1. f2f4 {mistake best=d2d4} d7d5 {excellent best=g8f6} 2. g1f3 {best} g8f6 {best} 3. e2e3 {best} c7c5 {best} 4. b2b3 {best} g7g6 {best} 5. c1b2 {good best=f1b5} f8g7 {best} 6. c2c3 {inaccuracy best=f1b5} e8g8 {best} 7. d2d4 {good best=f1e2} b8c6 {good best=c8f5} 8. f1e2 {best} c5d4 {best} 9. c3d4 {best} c8f5 {best} 10. b1c3 {mistake best=e1g1} c6b4 {best} 11. a1c1 {best} f6e4 {best} 12. c3e4 {best} d5e4 {best} 13. f3e5 {best} b4a2 {best} 14. c1a1 {inaccuracy best=c1c5} a2b4 {best} 15. b2a3 {good best=e1g1} b4d5 {best} 16. d1d2 {best} a7a5 {inaccuracy best=a8c8} 17. e1g1 {best} f7f6 {great} 18. e5g4 {best} f5g4 {best} 19. e2g4 {best} f6f5 {best} 20. g4e2 {excellent best=a3e7} d5e3 {best} 21. e2c4 {blunder best=a1d1} e3c4 {best} 22. b3c4 {best} g7d4 {best} 23. g1h1 {best} d4a1 {best} 24. d2d8 {best} f8d8 {best} 25. f1a1 {best} g8f7 {best} *
