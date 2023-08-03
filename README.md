@@ -3,6 +3,7 @@ gives you move caps just like chesscom game review
 
 
 # HOW TO USE FOR REVIEWING GAMES
+* Download an engine first like stockfish and paste into /engines/
 * Paste pgn in the pgns/saved_pgn.pgn
 * Run Run_gui.py
 * Press L
