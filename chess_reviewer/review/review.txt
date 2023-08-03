@@ -1,0 +1,38 @@
+
+Analyzed at depth 20, Engine estimated elo 3300
+
+
+white:noob
+white book moves:3
+white legendary moves:0
+white brilliant moves:0
+white great moves:2
+white best moves:10
+white excellent moves:3
+white good moves:2
+white inaccuracies:2
+white mistakes:4
+white blunders:7
+
+white middle game accuracy:74.91%
+white end game accuracy:0.00%
+white overall accuracy:74.91%
+white estimated elo: 2471
+
+
+black:me
+black book moves:3
+black legendary moves:0
+black brilliant moves:0
+black great moves:6
+black best moves:8
+black excellent moves:2
+black good moves:6
+black inaccuracies:3
+black mistakes:1
+black blunders:4
+
+black middle game accuracy:81.80%
+black end game accuracy:0.00%
+black overall accuracy:81.80%
+black estimated elo: 2699
